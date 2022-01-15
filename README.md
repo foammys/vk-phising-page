@@ -11,3 +11,9 @@
 exit: /sended.html
 authUrl: /auth
 ```
+
+## Лицензия
+
+Copyright © 2022 <a href="https://github.com/foammys">hepller</a>
+
+Проект распространяется под лицензией <a href="https://github.com/foammys/vk-phising-page/blob/main/LICENSE">MIT</a>
